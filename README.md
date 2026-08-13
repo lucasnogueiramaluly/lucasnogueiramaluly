@@ -2,7 +2,7 @@
 
 Computer Engineering student at the **University of São Paulo (USP)** and undergraduate researcher at **CITI-USP**.
 
-I work mainly with **computer architecture, RISC-V, RTL/digital design, embedded systems, and hardware/software co-design**, with current research involving RISC-V and Edge AI architectures, deployment flows, and workload-to-architecture mapping.
+I work mainly with computer architecture, RISC-V, RTL/digital design, embedded systems, and hardware/software co-design, with current research involving RISC-V and Edge AI architectures, deployment flows, and workload-to-architecture mapping.
 
 ## Selected projects
 
@@ -15,4 +15,4 @@ I work mainly with **computer architecture, RISC-V, RTL/digital design, embedded
 ## Additional projects
 
 - **[SymbolGame Embedded Console](https://github.com/lucasnogueiramaluly/symbolgame-embedded-console)** — Raspberry Pi console for symbol-supported interactive storytelling.
-- **[Digital Design Labs](https://github.com/lucasnogueiramaluly/digital-design-labs)** — selected Verilog and RISC-V assembly work from Digital Systems coursework.
+- **[Digital Design Labs](https://github.com/lucasnogueiramaluly/digital-design-labs)** — Verilog and RISC-V work covering UART TX/RX, Wishbone-based system integration, memory design, arithmetic circuits, and assembly.
