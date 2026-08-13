@@ -1,4 +1,4 @@
-# Lucas Nogueira Maluly
+# Lucas Nogueira Maluly de Carvalho
 
 Computer Engineering student at the **University of São Paulo (USP)** and undergraduate researcher at **CITI-USP**.
 
