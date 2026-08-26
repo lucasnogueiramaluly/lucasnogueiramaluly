@@ -6,7 +6,7 @@ I work mainly with computer architecture, RISC-V, RTL/digital design, embedded s
 
 ## Selected projects
 
-- **[RV32I Single-Cycle Core](https://github.com/lucasnogueiramaluly/rv32i-single-cycle-core)** — single-cycle RV32I processor in Verilog.
+- **[Personal RV32I Single-Cycle Processor](https://github.com/lucasnogueiramaluly/rv32i-single-cycle)** — modular Verilog/SystemVerilog core with 55/55 end-to-end checks and synthesis/area analysis.
 - **[IEEE-754 Single-Precision FPU](https://github.com/lucasnogueiramaluly/ieee754-single-precision-fpu)** — synchronous binary32 FPU with arithmetic, comparison, flags, and integrated verification.
 - **[RISC-V 32-bit ALU](https://github.com/lucasnogueiramaluly/riscv32-alu)** — personal RTL ALU with module-level self-checking verification.
 - **[Algorithms & Performance Analysis](https://github.com/lucasnogueiramaluly/algorithms-performance-analysis)** — C data structures, graph algorithms, and a Dijkstra priority-queue performance study.
